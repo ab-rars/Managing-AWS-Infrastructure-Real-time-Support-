@@ -1,12 +1,11 @@
 # Managing-AWS-Infrastructure-Real-time-Support-
 Ensure smooth playout and ingestion workflows while identifying and resolving issues on cloud infrastructure (AWS-based).
 
-# AWS Support Automation Toolkit 🚀
-
+# AWS Support Automation Toolkit 
 This repository contains scripts I built to support 24/7 video streaming infrastructure at scale.  
 It covers AWS infrastructure monitoring, automated log analysis, and SQL reporting.
 
-## 📌 Features
+## Features
 - AWS Infrastructure Monitoring
   Monitor EC2 instances, MediaLive, and MediaConnect health using boto3 & CloudWatch.
 
