@@ -15,9 +15,8 @@ It covers AWS infrastructure monitoring, automated log analysis, and SQL reporti
 - SQL Reporting Automation
   Optimized MySQL queries and export daily uptime/error distribution reports.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python (boto3, mysql-connector, regex)
 - AWS (EC2, MediaLive, MediaConnect, CloudWatch)
 - Docker & Kubernetes
 - MySQL
-- 
